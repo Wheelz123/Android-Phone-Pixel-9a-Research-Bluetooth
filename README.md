@@ -63,6 +63,7 @@ other indication on the phone at the time of extraction.
 cd ~/Android-Phone-Pixel-9a-Research-Bluetooth/
 sudo apt update
 sudo apt install -y build-essential pkg-config libbluetooth-dev libssl-dev cargo bluez adb
+git clone https://github.com/Wheelz123/Android-Phone-Pixel-9a-Research-Bluetooth.git
 cargo build --release
 ```
 
