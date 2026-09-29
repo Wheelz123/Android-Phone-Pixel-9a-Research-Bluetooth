@@ -25,8 +25,8 @@ During the course of this research, I also found an unexpected state transition 
 
 ## Threat model
 
-This tool demonstrates an insider-threat scenario: someone with legitimate —
-often temporary — access to a device establishes a Bluetooth pairing record,
+This tool demonstrates an insider-threat scenario: someone with legitimate,
+often temporary, access to a device establishes a Bluetooth pairing record,
 then extracts message data much later, without the owner's knowledge.
 
 Examples:
